@@ -1,1 +1,1 @@
-# Detectron-2-Object-Text-Detection
+# Object Text Detection using Detectron2
